@@ -54,14 +54,10 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nicolhetti&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img src="https://github-stats-nitti-pj.vercel.app/api/?username=Nicolhetti&theme=midnight-purple&hide_border=true&card_width=450&line_height=24&show_icons=true&count_private=true&include_all_commits=true&hide=issues"/>
   <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=Nicolhetti&theme=midnight-purple&hide_border=false"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolhetti&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <img src="https://github-stats-nitti-pj.vercel.app/api/top-langs/?username=Nicolhetti&theme=midnight-purple&hide_border=true&card_width=450&layout=compact&count_private=true&include_all_commits=true"/>
 </p>
-
-<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
-
-[![](https://visitcount.itsvg.in/api?id=Nicolhetti&icon=0&color=11)](https://visitcount.itsvg.in)
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
