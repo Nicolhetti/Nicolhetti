@@ -54,9 +54,9 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-stats-nitti-pj.vercel.app/api/?username=Nicolhetti&theme=midnight-purple&hide_border=true&card_width=450&line_height=24&show_icons=true&count_private=true&include_all_commits=true&hide=issues"/>
+  <img src="https://github-stats-nitti-pj.vercel.app/api/?username=Nicolhetti&theme=midnight-purple&hide_border=true&card_width=400&line_height=24&show_icons=true&count_private=true&include_all_commits=true&hide=issues"/>
   <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=Nicolhetti&theme=midnight-purple&hide_border=false"/> -->
-  <img src="https://github-stats-nitti-pj.vercel.app/api/top-langs/?username=Nicolhetti&theme=midnight-purple&hide_border=true&card_width=450&layout=compact&count_private=true&include_all_commits=true"/>
+  <img src="https://github-stats-nitti-pj.vercel.app/api/top-langs/?username=Nicolhetti&theme=midnight-purple&hide_border=true&card_width=400&layout=compact&count_private=true&include_all_commits=true"/>
 </p>
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
