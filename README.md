@@ -37,6 +37,10 @@
   <a href="https://discord.com/users/388115586112159756"><img src="https://discord.c99.nl/widget/theme-2/388115586112159756.png" alt="Nicolhetti"/></a>
 </p>
 
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31q3jhdzymt464p3vwluxunmjdka&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31q3jhdzymt464p3vwluxunmjdka&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile-nicolhetti"/></a>
+</p>
+
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h2 align="center">💻 Tech Stack</h2>
@@ -47,8 +51,8 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
-  <code><img width="50" src="https://i.imgur.com/FvJbAR0.png" alt="Argentine Mate" title="Argentine Mate"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" alt="Vue.js" title="Vue.js"/></code>
+	<code><img width="50" src="https://i.imgur.com/FvJbAR0.png" alt="Argentine Mate" title="Argentine Mate"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/></code>
