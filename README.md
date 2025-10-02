@@ -92,7 +92,7 @@
 <h2 align="center">My F****ng NASA PC 💪</h2>
 
 <p align="center">
-  <a title="PC Nicolhetti" href="https://www.pcgamebenchmark.com/ratemypc?cpu=intel-celeron-n2806&memory=4gb&gpu=intel-hd-graphics-620&platform=windows"><img src="https://www.pcgamebenchmark.com/signature/intel-celeron-n2806/4gb/intel-hd-graphics-620/forum.png"></a>
+  <a title="PC Nicolhetti" href="https://www.pcgamebenchmark.com/ratemypc?cpu=intel-celeron-n2806&memory=4gb&gpu=intel-hd-graphics-620&platform=windows"><img src="https://www.pcgamebenchmark.com/signature/intel-celeron-n2806/8gb/intel-hd-graphics-620/forum.png"></a>
 </p>
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
