@@ -100,8 +100,8 @@
 <h2 align="center">🏆 Achievements</h2>
 
 <p align="center" style="padding: 3rem">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-	  <img alt="Nicolhetti's achievements" src="https://github-profile-trophy.vercel.app/?username=Nicolhetti&theme=aura&row=4&column=3&title=-Reviews,-Issues&margin-w=15&margin-h=15&no-frame=true" />
+  <a href="https://github.com/Nicolhetti/github-profile-trophy" target="_blank">
+	  <img alt="Nicolhetti's achievements" src="https://trophy.nicolhetti.com.ar/?username=Nicolhetti&theme=aura&row=4&column=3&title=-Reviews,-Issues&margin-w=15&margin-h=15&no-frame=true" />
   </a>
 </p>
 
