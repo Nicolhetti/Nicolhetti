@@ -81,8 +81,10 @@
 
 <p align="center">
   <a href="https://paypal.me/Nicolhetti"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/></a>
-  <a href="https://patreon.com/NicolhettiProjects"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/></a>
+  <a href="https://patreon.com/NicolhettiGames"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/></a>
   <a href="https://ko-fi.com/nicolhetti"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi"/></a>
+  <a href="https://buymeacoffee.com/nicolhetti"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee"/></a>
+  <a href="https://github.com/sponsors/Nicolhetti"><img src="https://img.shields.io/badge/Sponsor-8A2BE2?style=for-the-badge&logo=githubsponsors&logoColor=ff8080&logoSize=auto&labelColor=212830&color=212830"/></a>
   <a href="https://cafecito.app/nicolhetti"><img src="https://tinyurl.com/CafecitoCustomBadgeNitti" alt="Cafecito"/></a>
   <a href="https://tecito.app/nicolhetti"><img src="https://tinyurl.com/TecitoCustomBadgeNitti2" alt="Tecito"/></a>
 </p>
@@ -101,7 +103,7 @@
 
 <p align="center" style="padding: 3rem">
   <a href="https://github.com/Nicolhetti/github-profile-trophy" target="_blank">
-	  <img alt="Nicolhetti's achievements" src="https://trophy.nicolhetti.com.ar/?username=Nicolhetti&theme=aura&row=4&column=3&title=-Reviews,-Issues&margin-w=15&margin-h=15&no-frame=true" />
+	  <img alt="Nicolhetti's achievements" src="https://trophy.nicolhetti.com.ar/?username=Nicolhetti&theme=aura&row=4&column=3&title=-Reviews,-Issues,-Followers&margin-w=15&margin-h=15&no-frame=true" />
   </a>
 </p>
 
