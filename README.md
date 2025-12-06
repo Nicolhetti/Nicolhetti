@@ -30,7 +30,7 @@
   <a href="https://twitch.tv/Nicolhetti"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch"/></a>
   <a href="https://x.com/nicolhetti"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
   <a href="https://youtube.com/@Nicolhetti"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/></a>
-  <a href="mailto:contacto@nicolhetti.com.ar"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+  <a href="mailto:contacto@nicolhetti.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 </p>
 
 <p align="center">
@@ -103,7 +103,7 @@
 
 <p align="center" style="padding: 3rem">
   <a href="https://github.com/Nicolhetti/github-profile-trophy" target="_blank">
-	  <img alt="Nicolhetti's achievements" src="https://trophy.nicolhetti.com.ar/?username=Nicolhetti&theme=aura&row=4&column=3&title=-Reviews,-Issues,-Followers&margin-w=15&margin-h=15&no-frame=true" />
+	  <img alt="Nicolhetti's achievements" src="https://trophy.nicolhetti.com/?username=Nicolhetti&theme=aura&row=4&column=3&title=-Reviews,-Issues,-Followers&margin-w=15&margin-h=15&no-frame=true" />
   </a>
 </p>
 
